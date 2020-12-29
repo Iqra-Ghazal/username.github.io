@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Modified by Majd Uddin <br />
+          Life was Perfect and then DevOps came. sigh! <br />
           Edit <code>src/App.js</code> and save to reload.
         </p>
         <a
